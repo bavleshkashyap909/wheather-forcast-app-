@@ -1,2 +1,25 @@
-# wheather-forcast-app-
-A Python-based weather forecast application that fetches real-time weather data using the OpenWeatherMap API. The project includes temperature, humidity, wind speed, and weather condition details with a simple and user-friendly interface.
+
+# Weather Forecast App
+
+## Description
+A Python-based Weather Forecast GUI application built using PyQt5 and the OpenWeatherMap API.
+
+## Features
+- Real-time weather information
+- Temperature display
+- Humidity information
+- Wind speed data
+- User-friendly GUI
+
+## Technologies Used
+- Python
+- PyQt5
+- OpenWeatherMap API
+
+## Installation
+1. Clone the repository
+2. Install requirements
+3. Run main.py
+
+## Screenshots
+(Add screenshots here)
