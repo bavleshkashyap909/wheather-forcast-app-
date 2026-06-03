@@ -21,5 +21,4 @@ A Python-based Weather Forecast GUI application built using PyQt5 and the OpenWe
 2. Install requirements
 3. Run main.py
 
-## Screenshots
-(Add screenshots here)
+
